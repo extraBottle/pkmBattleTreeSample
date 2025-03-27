@@ -1,0 +1,17 @@
+
+Venusaur @ Big Root
+Level: 50
+Ball: Cherish Ball
+Language: English
+OT: 유리병
+OTGender: Male
+TID: 973876
+SID: 1794
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe  
+Calm Nature  
+- Leech Seed
+- Toxic
+- Synthesis
+- Ingrain
+
+-------------------------------------------
